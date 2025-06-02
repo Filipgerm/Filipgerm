@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Philip.
+
+You can find me at
+i.📧: filipgerm@gmail.com
+ii.:🗣️: [LinkedIn](https://www.linkedin.com/in/philippos-germanopoulos-a29556244/)
+
 <!--
 **Filipgerm/Filipgerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
