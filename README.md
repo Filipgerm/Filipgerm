@@ -4,6 +4,7 @@ I am Philip.
 
 You can find me at
 i.📧: filipgerm@gmail.com
+
 ii.:🗣️: [LinkedIn](https://www.linkedin.com/in/philippos-germanopoulos-a29556244/)
 
 <!--
