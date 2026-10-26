@@ -1,4 +1,4 @@
-### Hey there 👋,  I am Filippos Germanopoulos, Co-founder & CTO @ Factora.
+### Hey there 👋,  I am Filippos Germanopoulos, Co-founder & CTO @ Finrail.
 
 What I'm building:
 
